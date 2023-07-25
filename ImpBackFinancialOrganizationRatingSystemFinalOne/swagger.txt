@@ -1,0 +1,8 @@
+http://localhost:8089/api/swagger-ui.html#/
+-------------
+user=userid-1,pwd-vini 
+administarter=userid-2,pwd-vishnu 
+organizationrep=userid-3,pwd-chai
+-------------------
+java full stack react and i transform
+------
